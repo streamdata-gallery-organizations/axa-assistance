@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-
 x-kinRank: "8"
 x-alexaRank: "2107685"
 tags: AXA Assistance
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-06-26"
+modified: "2018-06-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/axa-assistance/master/_listings/axa-assistance/apis.md
 specificationVersion: "0.14"
 apis:
