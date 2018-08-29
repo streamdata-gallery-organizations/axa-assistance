@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - AXA Assistance",
+	"description": "This is a repository of axa assistance APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/axa-assistance.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://axa-assistance.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "AXA Assistance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/axa-assistance/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "AXA Assistance",
+	"include": [
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/axa-assistance/master/_listings/axa-assistance/apis.yaml"
+		}
+	]
+}
